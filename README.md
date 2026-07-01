@@ -28,10 +28,13 @@ Managing hospital efficiency while maintaining high standards of patient care an
     * **Highest Revenue Drivers:** **Obesity** ($25,804 avg) and **Diabetes** ($25,660 avg) drive the highest average billing amounts.
     * **Lowest Billing:** **Cancer** treatments account for the lowest average billing at approximately $25,152.
 
-<img width="1283" height="720" alt="Executive Analysis" src="https://github.com/user-attachments/assets/b4b1acbe-dd95-485f-9113-3da8c87c8b8d" />
+<img width="1281" height="716" alt="Executive Analysis" src="https://github.com/user-attachments/assets/c8973431-ff93-4cd2-8572-ff5eea44521b" />
 
-<img width="1282" height="716" alt="Health and Patients Analysis" src="https://github.com/user-attachments/assets/a7748d66-0071-4bfd-9de9-a2f89f06f02b" />
+<img width="1282" height="712" alt="Revenue and Financial Analysis" src="https://github.com/user-attachments/assets/b2ca7e17-4884-49ce-8a4f-ee6ffb1c7d0e" />
 
-<img width="1283" height="723" alt="Revenue and Financial Analysis" src="https://github.com/user-attachments/assets/121fd379-4ed1-485b-865b-94e20f0c8a85" />
+<img width="1280" height="720" alt="Health and Patients Analysis" src="https://github.com/user-attachments/assets/8bf29787-d3d0-4be8-95ce-27072ae8d123" />
+
+
+
 
 
