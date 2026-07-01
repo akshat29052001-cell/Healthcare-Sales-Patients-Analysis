@@ -37,4 +37,19 @@ Managing hospital efficiency while maintaining high standards of patient care an
 * **Environment:** Jupyter Notebook / Google Colab[cite: 1]
 * **BI Dashboards:** (e.g., Power BI / Tableau / Excel - *Adjust if necessary*)
 
+* ### Executive Analysis
+*A high-level view of hospital operations, overall admissions, and system-wide metrics.*
+
+![Executive Analysis](executive-analysis.jpg)
+
+### Health and Patients Analysis
+*Deep dive into patient gender splits, age distributions, and condition prevalence.*
+
+![Health and Patients Analysis](health-and-patients-analysis.jpg)
+
+### Revenue and Financial Analysis
+*Breakdown of hospital billing across various medical conditions and treatment types.*
+
+![Revenue and Financial Analysis](revenue-and-financial-analysis.png)
+
 ---
